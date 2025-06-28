@@ -101,3 +101,6 @@ Thanks to the open-source Python community for tools like:**
 **🙌 About This Project:**
 This was my first attempt at learning and practicing a full modeling workflow, and I’m sharing it to help others who are starting their journey in machine learning.
 Feel free to connect if you’d like to discuss or collaborate!
+
+**Note:**
+Before running this notebook, please make sure the path of dataset file insurance.csv is correct.
