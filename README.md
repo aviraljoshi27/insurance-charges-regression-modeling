@@ -91,9 +91,12 @@ Best Gradient Boosting	~4381	0.88
 
 **🤝 Acknowledgments
 Thanks to the open-source Python community for tools like:**
-Pandas
-Scikit-Learn
-Matplotlib and Seaborn
+
+> Pandas
+
+>Scikit-Learn
+
+>Matplotlib and Seaborn
 
 **🙌 About This Project:**
 This was my first attempt at learning and practicing a full modeling workflow, and I’m sharing it to help others who are starting their journey in machine learning.
